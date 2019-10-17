@@ -10,7 +10,7 @@ Simple UI Pro 专业版simple UI 前后端分离，功能更多界面更美观�
 Simple Pro是收费项目，如果不想付费请继续使用[Simpleui](https://github.com/newpanjing/simpleui)我们也会将开源免费的项目维护到底。收费的目的是为了让simpleui和simplepro能够更好的维护下去。
 
 ## Simple Pro Demo
---预留
+[https://github.com/newpanjing/simplepro_demo](https://github.com/newpanjing/simplepro_demo)
 
 ## 预览图
 + 可自定义主题
@@ -82,3 +82,10 @@ Simple Pro是收费项目，如果不想付费请继续使用[Simpleui](https://
 + [导入导出插件](/export_import.md)
 + [表格配置](/table.md)
 + [JS SDK](/js_sdk.md)
+
+
+# 插件兼容
++ django_apscheduler
++ django-import-export
+
+以上两个插件做了特定的兼容，其他插件也可以兼容。
