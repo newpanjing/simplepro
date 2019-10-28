@@ -16,10 +16,15 @@ admin中的自定义actions也是支持的，也就是simpleui说说的自定义
 |search_fields|tuple|搜索框搜索的字段|
 |list_per_page|int|每页显示的数量|
 |list_filter|array|筛选字段|
+|list_display_links|显示连接进入编辑页的字段|
 |fields_options|dict|表格的表头字段设置|
 |actions_show|boolean|显示隐藏action，默认为True，只有显式指定为False的时候才隐藏|
 |actions|array|[自定义按钮](#自定义按钮)|
 
+# 字段互斥
+> list_display_links 字段与formatter方法互斥
+
+如果有formatter方法，list_display_links中配置的字段将无任何作用。
 
 ### fields_options字段
 admin 中字段设置，及时list_display 未定义该字段，在这里设置了也不会出错

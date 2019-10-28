@@ -81,7 +81,7 @@ Simple Pro是收费项目，如果不想付费请继续使用[Simpleui](https://
 + [自定义权限](/permissions.md)
 + [导入导出插件](/export_import.md)
 + [表格配置](/table.md)
-+ [JS SDK](/js_sdk.md)
++ [JS SDK](/jssdk.md)
 
 
 # 插件兼容
@@ -89,3 +89,11 @@ Simple Pro是收费项目，如果不想付费请继续使用[Simpleui](https://
 + django-import-export
 
 以上两个插件做了特定的兼容，其他插件也可以兼容。
+
+
+# 隐藏 simplepro 版本和授权信息
+
+请在settings.py中加入：
+```python
+SIMPLEPRO_INFO = False
+```

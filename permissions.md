@@ -201,3 +201,23 @@ SIMPLEUI_CONFIG = {
 导入 key=model.import
 
 导出 key=model.export
+
+
+# FAQ常见问题
+
++ PermissionError: [Errno 13] Permission denied
+
+请请检查是否对python lib目录有访问权限，linux和Windows默认用普通用户，对全局python lib包没有写的权限，所有会提示权限问题。建议用虚拟环境运行。
+
++ 无法获取套餐列表
+ 
+ 请检查是否能访问simpleui.88cto.com
+ 
+ ```shell
+ping simpleui.88cto.com
+ ```
+
+ 如果被防火墙屏蔽，请采用hosts的方式，在hosts文件中加入：
+ ```
+103.39.210.34 simpleui.88cto.com
+ ```
