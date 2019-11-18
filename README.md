@@ -1,6 +1,15 @@
 # simplepro
 Simple UI Pro 专业版simple UI 前后端分离，功能更多界面更美观！
-## 目前正在开发完善中预计10月18日开启内测，11月11日发布正式版
+
+## 在Demo
+[http://simplepro.demo.88cto.com/](http://simplepro.demo.88cto.com/)
+
+## 本地 Simple Pro Demo
+[https://github.com/newpanjing/simplepro_demo](https://github.com/newpanjing/simplepro_demo)
+
+## 官网
+[http://simpleui.88cto.com/](http://simpleui.88cto.com/)
+
 ## QQ群：786576510
 > Simple Pro是基于simpleui的升级版，需要依赖simpleui
 
@@ -9,8 +18,7 @@ Simple UI Pro 专业版simple UI 前后端分离，功能更多界面更美观�
 
 Simple Pro是收费项目，如果不想付费请继续使用[Simpleui](https://github.com/newpanjing/simpleui)我们也会将开源免费的项目维护到底。收费的目的是为了让simpleui和simplepro能够更好的维护下去。
 
-## Simple Pro Demo
-[https://github.com/newpanjing/simplepro_demo](https://github.com/newpanjing/simplepro_demo)
+
 
 ## 预览图
 + 可自定义主题
