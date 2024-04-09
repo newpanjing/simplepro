@@ -2,13 +2,13 @@
 Simple UI Pro 专业版simple UI 前后端分离，功能更多界面更美观！
 
 ## 在Demo
-[http://simplepro.demo.88cto.com/](http://simplepro.demo.88cto.com/)
+[http://175.178.229.216:9001/](http://175.178.229.216:9001/)
 
 ## 本地 Simple Pro Demo
 [https://github.com/newpanjing/simplepro_demo](https://github.com/newpanjing/simplepro_demo)
 
 ## 官网
-[http://simpleui.88cto.com/](http://simpleui.88cto.com/)
+[https://www.mldoo.com/](https://www.mldoo.com/)
 
 ## QQ群：786576510
 > Simple Pro是基于simpleui的升级版，需要依赖simpleui
